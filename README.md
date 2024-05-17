@@ -1,7 +1,7 @@
 ### Heyyy ✨ !!
 I'm Maria Luiza
 
-Software developer passionated in full-stack, that also using here as a tool to save my progress and projects, and sometimes to study new things :)
+Software developer passionated in full-stack, using here as a tool to save my progress and projects, and sometimes to study new things :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malupressler&show_icons=true&theme=nightowl) &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malupressler&layout=compact&theme=nightowl)
 
