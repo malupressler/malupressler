@@ -56,15 +56,6 @@ I’m currently diving into:
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malupressler&layout=compact&theme=nightowl)
-<!--
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=malupressler&show_icons=true&theme=radical)
--->
-
----
-
 ## 🌐 Let’s Connect!
 
 - LinkedIn: [linkedin.com/in/maluiuras](https://linkedin.com/in/maluiuras)
